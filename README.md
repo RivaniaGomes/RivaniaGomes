@@ -4,6 +4,10 @@
 <br>
 <br>
 <div align="center">
+     <a href="https://rivaniagomes.netlify.app/">
+      <img alt="Site Pessoal" src="https://img.shields.io/badge/Site%20Pessoal-RivaniaGomes-purple">
+   </a>
+    <br>
     <br><img align="center" src="https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=5" /> 
 </div>
   
