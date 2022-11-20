@@ -9,7 +9,7 @@
   
 <h2> 👨‍💻 Sobre mim </h2>
 <ul>
-  <li text-align="justify">🎓 Meu nome é Rivania, sou movida pela curiosidade do como acontece e sigo me movendo para o que será possível fazer;</li>
+  <li text-align="justify">🎓 Formada em Administração, Ciências Contábeis;</li>
   <li text-align="justify">📚 Atualmente estudando e expandindo meus conhecimentos em programação e entusiasta de tecnologias de desenvolvimento web;</li>
   <li text-align="justify">⚡ Ouvir música, conhecer lugares e assistir filmes e séries são alguns dos meus hobbies;</li>
   <li text-align="justify">📍 Teresópolis - RJ - Brasil.</li>
