@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Rivania+Gomes!;Sou+movida+pela+curiosidade.;Curiosa+por+como+as+coisas+acontecem.;E+curiosa+pelo+que+é+possível+fazer!;Seja+Bem-vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rivania+Gomes!;Sou+movida+pela+curiosidade.;Curiosa+por+como+as+coisas+acontecem.;E+curiosa+pelo+que+é+possível+fazer!;Seja+Bem-vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)<br>
 <br>
 <br>
 <div align="center">
@@ -9,10 +9,10 @@
   
 <h2> 👨‍💻 Sobre mim </h2>
 <ul>
-  <li>🎓 Meu nome é Rivania, sou movida pela curiosidade do como acontece e sigo me movendo para o que será possível fazer;</li>
-  <li>📚 Atualmente estudando e expandindo meus conhecimentos em programação e entusiasta de tecnologias de desenvolvimento web;</li>
-  <li>⚡ Ouvir música, conhecer lugares e assistir filmes e séries são alguns dos meus hobbies;</li>
-  <li>📍 Teresópolis - RJ - Brasil.</li>
+  <li text-align="justify">🎓 Meu nome é Rivania, sou movida pela curiosidade do como acontece e sigo me movendo para o que será possível fazer;</li>
+  <li text-align="justify">📚 Atualmente estudando e expandindo meus conhecimentos em programação e entusiasta de tecnologias de desenvolvimento web;</li>
+  <li text-align="justify">⚡ Ouvir música, conhecer lugares e assistir filmes e séries são alguns dos meus hobbies;</li>
+  <li text-align="justify">📍 Teresópolis - RJ - Brasil.</li>
 </ul>
 
 
