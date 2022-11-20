@@ -1,6 +1,23 @@
-# 💫 About Me:
-Sou movida pela curiosidade do como acontece e sigo me movendo para o que será possível fazer.
 
+<h2 align="center">
+    Olá! Seja bem-vindo ao meu perfil do GitHub!
+    <br/>
+    
+</h2>
+<div align="center">
+    <b>Meu nome é Rivania, sou movida pela curiosidade do como acontece e sigo me movendo para o que será possível fazer, também entusiasta de tecnologias de desenvolvimento web.</b>
+</div>
+
+### 👨‍💻 Sobre mim
+
+<ul>
+  <li>📚 Atualmente estudando e expandindo meus conhecimentos em desenvolvimento programação;</li>
+  <li>⚡ Ouvir música, conhecer lugares e assistir filmes e séries são alguns dos meus hobbies;</li>
+  <li>📍 Teresópolis - RJ - Brasil.</li>
+</ul>
+
+
+> “Paciência é um elemento chave para o sucesso.” - Bill Gates
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rivaniagomes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivaniagomes/) 
@@ -19,3 +36,4 @@ Sou movida pela curiosidade do como acontece e sigo me movendo para o que será 
 [![](https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
