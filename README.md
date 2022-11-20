@@ -18,6 +18,11 @@
 
 > “Paciência é um elemento chave para o sucesso.” - Bill Gates
 
+<h2> 📈 Contribuições </h2>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=RivaniaGomes&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</div>
+
 <h2> 🌐 Redes Sociais</h2>
 
 <div align="center">
@@ -44,12 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br>
     <img src="https://github-readme-stats.vercel.app/api?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
-
-<h2> 📈 Contribuições </h2>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RivaniaGomes&theme=radical&hide_border=false" />
-</div>
-
 
 <h2> 🏆 GitHub Trophies  </h2>
 <div align="center">
