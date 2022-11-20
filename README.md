@@ -4,7 +4,7 @@
 <br>
 <br>
 <div align="center">
-    <br><img align="center" src="https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=9" /> 
+    <br><img align="center" src="https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=5" /> 
 </div>
   
 <h2> 👨‍💻 Sobre mim </h2>
