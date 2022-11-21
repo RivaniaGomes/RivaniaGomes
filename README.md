@@ -43,8 +43,8 @@
 
 <h2> 📊 Estatísticas do GitHub </h2>
 <div align="center">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rivania Gomes github stats"/>
-    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Rivania Gomes github stats" />
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rivania Gomes github stats"/>
+    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RivaniaGomes&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rivania Gomes github stats" />
 </div>
 
 <h2> 📈 Contribuições </h2>
@@ -55,7 +55,7 @@
 <h2> 🏆 GitHub Trophies  </h2>
 <div align="center">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RivaniaGomes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RivaniaGomes&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
   </p>
 </div>
 
