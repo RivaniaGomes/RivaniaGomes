@@ -8,7 +8,7 @@
       <img height="30px" alt="Site Pessoal" src="https://img.shields.io/badge/Site%20Pessoal-RivaniaGomes-palevioletred">
    </a>
     <br>
-    <br><img align="center" src="https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=5" /> 
+    <br><img align="center" width=20% src="https://visitcount.itsvg.in/api?id=RivaniaGomes&icon=2&color=5" /> 
 </div>
   
 <h2> 👨‍💻 Sobre mim </h2>
