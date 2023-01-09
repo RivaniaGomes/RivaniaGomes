@@ -43,10 +43,12 @@
 
 <h2> 📊 Estatísticas do GitHub </h2>
 <div align="center">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rivania Gomes github stats"/>
-    
-</div>
 
+![](https://github-readme-stats.vercel.app/api?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+    
 <h2> 📈 Contribuições </h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RivaniaGomes&theme=radical&hide_border=false" />
