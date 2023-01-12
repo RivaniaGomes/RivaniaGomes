@@ -40,14 +40,6 @@
     <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
 </div>
-
-<h2> 📊 Estatísticas do GitHub </h2>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RivaniaGomes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
     
 <h2> 📈 Contribuições </h2>
 <div align="center">
